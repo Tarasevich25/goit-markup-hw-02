@@ -1,0 +1,148 @@
+.header {
+  background-color: #ffffff;
+}
+.logo {
+  font-family: "Raleway";
+  color: black;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+}
+.web {
+  font-family: "OleoScript";
+  color: #2196f3;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+}
+.navbutton a {
+  font-family: "Roboto";
+  color: black;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+}
+.nav-item {
+  color: rgba(0, 0, 0, 0);
+}
+.navbutton .nav:hover,
+.navbutton .nav:focus {
+  color: #2196f3;
+}
+.contacts a {
+  font-family: "Roboto";
+  color: #757575;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+}
+.contacts .nav:hover,
+.contacts .nav:focus {
+  color: #2196f3;
+}
+.herosection {
+  background: #2f303a;
+}
+.hero-head {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  color: #ffffff;
+}
+.hero-button {
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  display: flex;
+  color: #ffffff;
+}
+.working-head {
+  font-family: "Roboto";
+  color: #212121;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.working-text {
+  font-family: "Roboto";
+  color: #757575;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+}
+.our-work {
+  font-family: "Roboto";
+  color: #212121;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+}
+.our-team {
+  background-color: #f5f4fa;
+}
+.our-team-head {
+  font-family: "Roboto";
+  color: #212121;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+}
+.img-style li {
+  background: #ffffff;
+  width: 270px;
+  height: 368px;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 1px rgba(0, 0, 0, 0.2);
+  border-radius: 0px 0px 4px 4px;
+}
+.position {
+  font-family: "Roboto";
+  color: #212121;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+}
+.worker-name {
+  font-family: "Roboto";
+  color: #757575;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+.footer {
+  background-color: #2f303a;
+}
+.footer-logo {
+  font-family: "Raleway";
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+}
+.address a {
+  font-family: "Roboto";
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+}
+.footer-nav a {
+  font-family: "Roboto";
+  color: rgba(255, 255, 255, 0.6);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+}
+.footer {
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer-contacts .footer:hover,
+.footer-contacts .footer:focus {
+  color: #2196f3;
+}
