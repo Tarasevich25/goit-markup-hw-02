@@ -1,3 +1,4 @@
+/* index.html */
 .header {
   background-color: #ffffff;
 }
@@ -7,6 +8,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
+  text-decoration: none;
 }
 .web {
   font-family: "Raleway";
@@ -21,6 +23,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
+  text-decoration: none;
 }
 .nav-item {
   color: rgba(0, 0, 0, 0);
@@ -35,6 +38,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
+  text-decoration: none;
 }
 .contacts .nav:hover,
 .contacts .nav:focus {
@@ -60,6 +64,7 @@
   font-size: 16px;
   display: flex;
   color: #ffffff;
+  cursor: pointer;
 }
 .working-head {
   font-family: "Roboto";
@@ -116,6 +121,7 @@
   font-size: 16px;
 }
 .footer {
+  text-decoration: none;
   background-color: #2f303a;
 }
 .footer-logo {
@@ -124,6 +130,7 @@
   font-style: normal;
   font-weight: 700;
   font-size: 26px;
+  text-decoration: none;
 }
 .address a {
   font-family: "Roboto";
@@ -131,6 +138,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
+  text-decoration: none;
 }
 .footer-nav a {
   font-family: "Roboto";
@@ -145,4 +153,33 @@
 .footer-contacts .footer:hover,
 .footer-contacts .footer:focus {
   color: #2196f3;
+}
+.address .address-link:hover,
+.address .address-link:focus {
+  color: #2196f3;
+}
+/* portfolio.html*/
+.portfolio-hero-section {
+}
+.image-header {
+  font-family: "Roboto";
+  color: #212121;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+}
+.image-profile {
+  font-family: "Roboto";
+  color: #757575;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+}
+.portfolio-button {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.portfolio-hero-section .portfolio-button:hover,
+.portfolio-hero-section .portfolio-button:focus {
+  background-color: #2196f3;
 }
